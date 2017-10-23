@@ -5,10 +5,10 @@
 ### Setup environment
 
 1. MS Windows 10 Enterprise
-2. MS Visual Studio Enterprise 2017 v15.2
+2. MS Visual Studio Enterprise 2017 v 15.4.1
 3. Python 2.7 https://www.python.org/downloads/
 4. DirectX for Managed Code: https://www.microsoft.com/en-us/download/confirmation.aspx?id=10084
-5. Download and install lates version of MissionPlanner from http://firmware.ardupilot.org/Tools/MissionPlanner/
+5. Download and install latest version of MissionPlanner from http://firmware.ardupilot.org/Tools/MissionPlanner/
 
 ### Make MissionPlanner to be built
 
